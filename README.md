@@ -1,7 +1,7 @@
 # send-rfid
 This is a keyboard emulation for RFID devices
 
-# Mantainers
+## Mantainers
 - Marco Bimbati
 - Mattia Trombon
 - Francesca Reale
